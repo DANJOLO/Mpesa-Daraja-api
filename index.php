@@ -1,0 +1,2 @@
+<?php
+echo"DARAJA API BY DANJOLO MISAFA";
